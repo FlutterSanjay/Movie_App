@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Movie App (Flutter)</title>
+
 </head>
 <body>
 
@@ -116,17 +116,9 @@ lib/
 
 
 
-<h2> Author</h2>
-  <p>
-    <strong>Sanjay</strong><br />
-    Flutter Developer<br />
-    GitHub:
-    <a href="https://github.com/FlutterSanjay">
-      https://github.com/FlutterSanjay
-    </a>
-  </p>
 
-  <hr />
+
+
 
 
 
