@@ -47,33 +47,6 @@
 
   <hr />
 
-<h2>📂 Project Structure</h2>
-
-  <pre>
-lib/
-├── app/
-│   ├── config/
-│   │   └── app_security.dart
-│   └── services/
-│       └── api_services.dart
-│
-├── features/
-│   ├── home/
-│   │   ├── controller/
-│   │   ├── view/
-│   │   └── widgets/
-│   ├── movie_details/
-│   │   ├── controller/
-│   │   └── view/
-│
-├── model/
-│   └── movie_model.dart
-│
-├── services/
-│   └── db_helper.dart
-│
-└── main.dart
-  </pre>
 
   <p>
     The project follows a feature-based structure with clear
